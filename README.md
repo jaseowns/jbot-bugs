@@ -1,4 +1,5 @@
 # jbot-bugs
 Bugs for jbot
 
-# poopshit is a word.
+# poopshit is NOT a word.
+You win.
